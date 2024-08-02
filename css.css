@@ -1,0 +1,99 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    flex-wrap: wrap;
+    margin-left: 65PX;
+    margin-top: 30px;
+
+
+
+}
+.container :nth-child(1){
+    background-image: url(Captureru.PNG.jpg);
+    width: 280px;
+    height: 280px;
+    background-size: 100% 100%;
+    
+}
+.container :nth-child(2){
+    background-image: url(Capturefitnes.PNG.jpg);
+    width: 280px;
+    height: 300px;
+    background-size: 100% 100%;
+    margin-top: 280px;
+    
+    
+   
+}
+.container :nth-child(3){
+    background-image: url(Capture120.PNG);
+    width: 280px;
+    height: 280px;
+    background-size: 100% 100%;
+    
+    
+}
+.container :nth-child(4){
+    background-image: url(Capturewate.PNG.jpg);
+    width: 280px;
+    height: 280px;
+    background-size: 100% 100%;
+    margin-top: 290px;
+    
+   
+    
+}
+.contain{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    flex-wrap: wrap;
+    margin-left: 65PX;
+    margin-top: 30px;
+    gap: 40px;
+    
+    
+
+}
+.booa{
+    background-color: rgb(255, 255, 255);
+    width: 280px;
+    height: 160px;
+    margin-top: -290px;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+ 
+
+    
+}
+.boos{
+    background-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 160px;
+    margin-top: -600px;
+    
+}
+.bood{
+    background-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 160px;
+    margin-top: -290px;
+}
+.book{
+    background-color: rgb(255, 255, 255);
+    width: 220px;
+    height: 160px;
+    margin-top: -600px;
+    margin-left: 30PX;
+}
+
+
+
+
+
+
